@@ -4,16 +4,6 @@ Big Data Analytics
 
 
 
-Assignment # 3                              Due Date: 19th March 2023
-
-Assignments are to be done in the groups assigned. No late assignments will be accepted.
-
-HONOR POLICY
-
-This assignment is a learning opportunity that will be evaluated based on your ability to think, work through a problem in a logical manner. You may however discuss verbally or via email the assignment with your classmates or the course instructor, and use the Internet to do your research, but the written work should be your own. Plagiarized reports or code will get a zero. If in doubt, ask the course instructor. You should submit your assignment in a zip file following the naming convention. 
-
-Naming Convention: i21xxxx_i21xxxx_i21xxxx.zip
-
 Objectives:
 
    For this assignment, you are going to implement multiple-source personalized PageRank.
